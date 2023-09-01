@@ -31,7 +31,7 @@ export const transactions = [
     },
     {
         id: 13, 
-        name: "Irene Doe",
+        name: "Owolabi",
         image: personsImgs.person_two,
         date: "23/08/2023",
         amount: 30000
